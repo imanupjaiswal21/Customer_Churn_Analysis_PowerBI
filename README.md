@@ -1,6 +1,18 @@
 # Customer_Churn_Analysis_PowerBI
 Analysis of the data to bring out few insights on the customer Churn. It is advantageous for banks to know what leads a client towards the decision to leave the company.
 
+**Power BI online Report**
+
+https://app.powerbi.com/groups/me/reports/92b4df2e-1f2c-4e49-927b-dff75a50d7cd/ReportSection?experience=power-bi
+
+**Power BI Dashboard**
+
+https://app.powerbi.com/groups/5587e222-e153-4a4d-bb48-f7b726b0e09e/dashboards/6d22d4db-8086-45c9-bad5-d5769e9914ca?experience=power-bi
+
+**Power BI App**
+
+https://app.powerbi.com/groups/5587e222-e153-4a4d-bb48-f7b726b0e09e/dashboards/6d22d4db-8086-45c9-bad5-d5769e9914ca/mobileAuthoring?experience=power-bi
+
 
 **Churn Analysis**
 
