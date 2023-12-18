@@ -13,7 +13,6 @@ https://app.powerbi.com/groups/5587e222-e153-4a4d-bb48-f7b726b0e09e/dashboards/6
 
 https://app.powerbi.com/groups/5587e222-e153-4a4d-bb48-f7b726b0e09e/dashboards/6d22d4db-8086-45c9-bad5-d5769e9914ca/mobileAuthoring?experience=power-bi
 
-
 **Churn Analysis**
 
 Analyse the data and bring out few insights on the customer Churn.
